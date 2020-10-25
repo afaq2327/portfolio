@@ -3,7 +3,7 @@ const SocialLinks = props => {
     return (
       <div className="social">
         <a
-          href="https://twitter.com/yagoestevez"
+          href=""
           target="_blank"
           rel="noopener noreferrer"
           title="Link to author's Twitter profile"
@@ -13,7 +13,7 @@ const SocialLinks = props => {
         </a>
         <a
           id="profile-link"
-          href="https://github.com/yagoestevez"
+          href="https://github.com/afaq2327"
           target="_blank"
           rel="noopener noreferrer"
           title="Link to author's GitHub Profile"
@@ -22,7 +22,7 @@ const SocialLinks = props => {
           <i className="fab fa-github" />
         </a>
         <a
-          href="https://codepen.io/yagoestevez"
+          href=""
           target="_blank"
           rel="noopener noreferrer"
           title="Link to author's Codepen Profile"
