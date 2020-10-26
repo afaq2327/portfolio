@@ -3,13 +3,13 @@ const SocialLinks = props => {
     return (
       <div className="social">
         <a
-          href=""
+          href="https://linkedin.com/in/afaq-ahmed-5799a9128"
           target="_blank"
           rel="noopener noreferrer"
           title="Link to author's Twitter profile"
         >
           {' '}
-          <i className="fab fa-twitter" />
+          <i className="fab fa-linkedin" />
         </a>
         <a
           id="profile-link"
@@ -22,7 +22,7 @@ const SocialLinks = props => {
           <i className="fab fa-github" />
         </a>
         <a
-          href=""
+          href="https://codepen.io/afaq-ahmed"
           target="_blank"
           rel="noopener noreferrer"
           title="Link to author's Codepen Profile"
